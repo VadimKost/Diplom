@@ -1,4 +1,4 @@
-package com.vadim.car.ui.theme
+package com.vadim.car.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package com.vadim.car.ui.theme
+package com.vadim.car.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
